@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+:root {
+  font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #0d0d0d;
+  color: #cccccc;
+  min-height: 100vh;
+}
